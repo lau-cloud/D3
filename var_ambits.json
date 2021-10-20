@@ -1,0 +1,37 @@
+[
+  {
+    "from": "Metropolità",
+    "to": "comarques_girona",
+    "value": 8.974
+  },
+  {
+    "from": "Metropolità",
+    "to": "camp_tarragona",
+    "value": 4.366
+  },
+  {
+    "from": "Metropolità",
+    "to": "terres_ebre",
+    "value": 1.577
+  },
+  {
+    "from": "Metropolità",
+    "to": "ponent",
+    "value": 1.762
+  },
+  {
+    "from": "Metropolità",
+    "to": "comarques_centrals",
+    "value": 5.495
+  },
+  {
+    "from": "Metropolità",
+    "to": "alt_pirineu_aran",
+    "value": 1.816
+  },
+  {
+    "from": "Metropolità",
+    "to": "penedes",
+    "value": 11.79
+  }
+]
